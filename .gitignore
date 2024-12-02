@@ -1,0 +1,28 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+venv
+app
+.env
+.vscode/
+__pycache__/
+.env
+.DS_Store
+*.py[cod]
+Pipfile.lock
+venv/
+.venv/
+instance/
+*.log
+*.sqlite3
+
+# Pytest / Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+coverage.xml
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+*.ipynb
